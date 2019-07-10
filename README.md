@@ -1,6 +1,6 @@
 # Papers & such!
 _**Coming soon!**_ <br>
-- [Conservation and modularity in the Psp envelope stress-response systems](https://github.com/jananiravi/psp-evolution)
+- [Evolutionary conservation and modularity in the Phage-shock protein (Psp) envelope stress-response systems](https://github.com/jananiravi/psp-evolution)
 - ... _a couple of surprises!_
 - Lipid metabolism in Mycobacterium tuberculosis-infected macrophages
 - Modeling the START transition in the budding yeast cell cycle
